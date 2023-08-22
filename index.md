@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Blog
+title: Trevor's CSP Blog!
 ---
 
 
